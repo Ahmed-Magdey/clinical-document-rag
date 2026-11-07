@@ -46,6 +46,3 @@ Existing regression questions were inspected during development and are not an i
 - Generated claims and citations require verification.
 - API failures and rate limits can interrupt requests.
 
-## Demo
-
-![Gradio interface]("C:\Users\pc\Pictures\Screenshots\Screenshot 2026-11-07 031001.png")
