@@ -48,4 +48,4 @@ Existing regression questions were inspected during development and are not an i
 
 ## Demo
 
-![Gradio interface](screenshots/demo.png)
+![Gradio interface]("C:\Users\pc\Pictures\Screenshots\Screenshot 2026-11-07 031001.png")
